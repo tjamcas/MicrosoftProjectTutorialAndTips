@@ -3,6 +3,7 @@
 YouTube: <https://www.youtube.com/watch?v=FjCBCwD5Kzw>  
 Presenter: Tom Stephenson
 ### How to set up a Resource Sheet
+- ___Tip:___ Choose the different type of reports by moving your mouse all the way to the left of the currently open reports. Choose the different views of a report/sheet b right clicking on the square icon to the left of the column headers.
 - To access the Resource Sheet, from Gantt chart view, right click to the left of the task table and select `Resource Sheet`. From here, you can document all the resources that will contribute to the delivery of the project
 - Resource Sheet Table fields:
   - `Resource Name`
